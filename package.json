@@ -6,6 +6,7 @@
     "license": "MIT",
     "author": "Microsoft",
     "scripts": {
+r        
         "start": "node index.js",
         "dev": "nodemon"
     },
